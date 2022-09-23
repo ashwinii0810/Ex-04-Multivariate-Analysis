@@ -127,16 +127,22 @@ plt.ylabel=("Postal Code")
 
 plt.show()
 
+output:
+
+![image](https://user-images.githubusercontent.com/95408674/191998689-7f0ef21b-176a-4c28-9edc-9866f7760317.png)
+
+
 corr:
 
 df.corr()
 
 output:
-![image](https://user-images.githubusercontent.com/95408674/191999885-7f7284bd-3e7e-4dd2-a85d-38ea33700b9f.png)
+
+  ![image](https://user-images.githubusercontent.com/95408674/191999885-7f7284bd-3e7e-4dd2-a85d-38ea33700b9f.png)
 
   
-  ![image](https://user-images.githubusercontent.com/95408674/191998689-7f0ef21b-176a-4c28-9edc-9866f7760317.png)
 Heatmap:
+
 code:
 
 import numpy as np
@@ -160,7 +166,7 @@ hm = sn.heatmap(data = data)
 plt.show()
 
 output:
-![image](https://user-images.githubusercontent.com/95408674/192001057-49bac8e2-c5a7-4082-a542-ed6e01183c37.png)
+![image](https://user-images.githubusercontent.com/95408674/192003612-386c8e5d-7736-40ee-b2e2-a5c176ff652c.png)
 
 RESULT:
   
