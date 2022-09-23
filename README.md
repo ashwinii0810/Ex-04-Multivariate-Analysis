@@ -134,8 +134,6 @@ df.corr()
 output:
 ![image](https://user-images.githubusercontent.com/95408674/191999885-7f7284bd-3e7e-4dd2-a85d-38ea33700b9f.png)
 
-
-  output:
   
   ![image](https://user-images.githubusercontent.com/95408674/191998689-7f0ef21b-176a-4c28-9edc-9866f7760317.png)
 Heatmap:
